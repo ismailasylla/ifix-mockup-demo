@@ -4,11 +4,11 @@ Ifix App Front-End (Ui). This sample app(UI) was a part of an assisment.
 
 In the project directory, you can run:
 
-##### `Live serve`
+##### `Live server`
 
 You can check the slides here.
 
-Check the demo hosted on heroku` 
+Check the demo website on the link provided bellow` 
 [https://ifixdemo-mobile.netlify.com/index.html]
 
 Instructions First clone this repository.
